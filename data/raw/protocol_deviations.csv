@@ -1,0 +1,49 @@
+deviation_id,subject_id,site_id,deviation_type,deviation_date,severity,description
+PD00001,SUBJ001,S003,Protocol Violation,2025-02-16,Minor,Protocol Violation for subject SUBJ001
+PD00002,SUBJ003,S006,Visit Window Missed,2025-02-19,Major,Visit Window Missed for subject SUBJ003
+PD00003,SUBJ010,S010,Visit Window Missed,2025-03-22,Major,Visit Window Missed for subject SUBJ010
+PD00004,SUBJ011,S001,Unscheduled Visit,2025-04-17,Major,Unscheduled Visit for subject SUBJ011
+PD00005,SUBJ018,S002,Protocol Violation,2025-03-18,Minor,Protocol Violation for subject SUBJ018
+PD00006,SUBJ032,S004,Unscheduled Visit,2025-05-19,Minor,Unscheduled Visit for subject SUBJ032
+PD00007,SUBJ043,S010,Protocol Violation,2025-03-05,Minor,Protocol Violation for subject SUBJ043
+PD00008,SUBJ053,S001,Protocol Violation,2025-03-19,Minor,Protocol Violation for subject SUBJ053
+PD00009,SUBJ059,S008,Unscheduled Visit,2025-02-25,Minor,Unscheduled Visit for subject SUBJ059
+PD00010,SUBJ062,S001,Protocol Violation,2025-01-24,Major,Protocol Violation for subject SUBJ062
+PD00011,SUBJ063,S010,Unscheduled Visit,2025-01-25,Major,Unscheduled Visit for subject SUBJ063
+PD00012,SUBJ072,S005,Visit Window Missed,2025-04-03,Minor,Visit Window Missed for subject SUBJ072
+PD00013,SUBJ079,S002,Visit Window Missed,2025-03-21,Major,Visit Window Missed for subject SUBJ079
+PD00014,SUBJ088,S010,Unscheduled Visit,2025-06-21,Minor,Unscheduled Visit for subject SUBJ088
+PD00015,SUBJ089,S009,Unscheduled Visit,2025-04-20,Minor,Unscheduled Visit for subject SUBJ089
+PD00016,SUBJ092,S005,Protocol Violation,2025-03-07,Minor,Protocol Violation for subject SUBJ092
+PD00017,SUBJ095,S010,Missing Lab Sample,2025-03-13,Minor,Missing Lab Sample for subject SUBJ095
+PD00018,SUBJ096,S002,Unscheduled Visit,2025-05-20,Major,Unscheduled Visit for subject SUBJ096
+PD00019,SUBJ109,S010,Visit Window Missed,2025-04-26,Major,Visit Window Missed for subject SUBJ109
+PD00020,SUBJ110,S008,Visit Window Missed,2025-04-08,Minor,Visit Window Missed for subject SUBJ110
+PD00021,SUBJ111,S004,Visit Window Missed,2025-03-15,Minor,Visit Window Missed for subject SUBJ111
+PD00022,SUBJ124,S008,Missing Lab Sample,2025-03-10,Minor,Missing Lab Sample for subject SUBJ124
+PD00023,SUBJ126,S007,Visit Window Missed,2025-04-28,Minor,Visit Window Missed for subject SUBJ126
+PD00024,SUBJ131,S007,Protocol Violation,2025-06-16,Minor,Protocol Violation for subject SUBJ131
+PD00025,SUBJ136,S009,Unscheduled Visit,2025-03-19,Minor,Unscheduled Visit for subject SUBJ136
+PD00026,SUBJ142,S005,Protocol Violation,2025-03-04,Major,Protocol Violation for subject SUBJ142
+PD00027,SUBJ146,S005,Missing Lab Sample,2025-05-06,Major,Missing Lab Sample for subject SUBJ146
+PD00028,SUBJ154,S005,Unscheduled Visit,2025-04-05,Minor,Unscheduled Visit for subject SUBJ154
+PD00029,SUBJ158,S004,Visit Window Missed,2025-03-28,Minor,Visit Window Missed for subject SUBJ158
+PD00030,SUBJ162,S006,Protocol Violation,2025-06-08,Minor,Protocol Violation for subject SUBJ162
+PD00031,SUBJ170,S007,Protocol Violation,2025-01-29,Minor,Protocol Violation for subject SUBJ170
+PD00032,SUBJ177,S002,Protocol Violation,2025-05-22,Minor,Protocol Violation for subject SUBJ177
+PD00033,SUBJ180,S006,Missing Lab Sample,2025-02-14,Minor,Missing Lab Sample for subject SUBJ180
+PD00034,SUBJ204,S004,Protocol Violation,2025-05-07,Minor,Protocol Violation for subject SUBJ204
+PD00035,SUBJ206,S010,Unscheduled Visit,2025-03-30,Major,Unscheduled Visit for subject SUBJ206
+PD00036,SUBJ211,S002,Visit Window Missed,2025-04-08,Major,Visit Window Missed for subject SUBJ211
+PD00037,SUBJ212,S003,Visit Window Missed,2025-03-20,Minor,Visit Window Missed for subject SUBJ212
+PD00038,SUBJ215,S004,Unscheduled Visit,2025-06-05,Minor,Unscheduled Visit for subject SUBJ215
+PD00039,SUBJ239,S006,Missing Lab Sample,2025-03-02,Minor,Missing Lab Sample for subject SUBJ239
+PD00040,SUBJ245,S008,Protocol Violation,2025-05-30,Minor,Protocol Violation for subject SUBJ245
+PD00041,SUBJ252,S004,Missing Lab Sample,2025-05-21,Major,Missing Lab Sample for subject SUBJ252
+PD00042,SUBJ256,S010,Missing Lab Sample,2025-04-27,Minor,Missing Lab Sample for subject SUBJ256
+PD00043,SUBJ271,S002,Missing Lab Sample,2025-05-12,Minor,Missing Lab Sample for subject SUBJ271
+PD00044,SUBJ275,S004,Protocol Violation,2025-01-13,Minor,Protocol Violation for subject SUBJ275
+PD00045,SUBJ276,S004,Protocol Violation,2025-03-31,Minor,Protocol Violation for subject SUBJ276
+PD00046,SUBJ287,S009,Visit Window Missed,2025-04-03,Minor,Visit Window Missed for subject SUBJ287
+PD00047,SUBJ295,S009,Protocol Violation,2025-03-24,Major,Protocol Violation for subject SUBJ295
+PD00048,SUBJ297,S002,Unscheduled Visit,2025-03-18,Major,Unscheduled Visit for subject SUBJ297

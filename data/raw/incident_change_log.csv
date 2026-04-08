@@ -1,0 +1,31 @@
+incident_id,issue_category,description,reported_date,status,resolution_date,change_request_flag
+INC0001,System Error,System Error observed in study reports,2025-03-14,Closed,2025-03-17,Y
+INC0002,System Error,System Error observed in study reports,2025-01-17,Closed,2025-01-22,Y
+INC0003,System Error,System Error observed in study reports,2025-03-14,Closed,2025-03-16,N
+INC0004,Missing Data Export,Missing Data Export observed in study reports,2024-12-29,Open,,N
+INC0005,System Error,System Error observed in study reports,2024-12-23,Open,,Y
+INC0006,Report Logic,Report Logic observed in study reports,2025-01-27,Closed,2025-01-31,N
+INC0007,System Error,System Error observed in study reports,2025-02-22,Open,,N
+INC0008,System Error,System Error observed in study reports,2025-01-02,Closed,2025-01-06,N
+INC0009,Report Logic,Report Logic observed in study reports,2025-02-20,Closed,2025-02-27,N
+INC0010,Report Logic,Report Logic observed in study reports,2025-01-25,Open,,N
+INC0011,Report Logic,Report Logic observed in study reports,2024-12-28,Open,,N
+INC0012,Report Logic,Report Logic observed in study reports,2025-01-14,Open,,Y
+INC0013,Report Logic,Report Logic observed in study reports,2025-01-18,Open,,Y
+INC0014,Missing Data Export,Missing Data Export observed in study reports,2025-01-20,Open,,Y
+INC0015,System Error,System Error observed in study reports,2025-03-15,Closed,2025-03-17,Y
+INC0016,Missing Data Export,Missing Data Export observed in study reports,2025-02-16,Closed,2025-02-25,Y
+INC0017,System Error,System Error observed in study reports,2025-03-17,Closed,2025-03-24,N
+INC0018,Missing Data Export,Missing Data Export observed in study reports,2024-12-19,Closed,2024-12-20,Y
+INC0019,Report Logic,Report Logic observed in study reports,2024-12-28,Closed,2025-01-05,N
+INC0020,Missing Data Export,Missing Data Export observed in study reports,2025-01-01,Closed,2025-01-04,N
+INC0021,Report Logic,Report Logic observed in study reports,2025-01-27,Open,,N
+INC0022,Missing Data Export,Missing Data Export observed in study reports,2024-12-31,Open,,Y
+INC0023,System Error,System Error observed in study reports,2025-01-13,Closed,2025-01-15,N
+INC0024,Missing Data Export,Missing Data Export observed in study reports,2025-03-13,Open,,N
+INC0025,Missing Data Export,Missing Data Export observed in study reports,2025-01-17,Open,,Y
+INC0026,Report Logic,Report Logic observed in study reports,2025-02-21,Closed,2025-02-25,Y
+INC0027,System Error,System Error observed in study reports,2025-02-24,Open,,N
+INC0028,System Error,System Error observed in study reports,2024-12-20,Open,,Y
+INC0029,Missing Data Export,Missing Data Export observed in study reports,2025-02-15,Open,,N
+INC0030,Report Logic,Report Logic observed in study reports,2025-02-14,Closed,2025-02-22,N

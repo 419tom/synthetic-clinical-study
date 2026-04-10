@@ -9,7 +9,6 @@ The project includes:
 - SQL-based clinical data review queries
 - synthetic study data generation in Python
 - NLP analysis of free-text operational and safety fields
-- portfolio-ready workflow for GitHub
 
 ---
 

@@ -107,7 +107,7 @@ python scripts/nlp_analysis.py
 
 ---
 
-### 5. Explore notebook (optional)
+### 5. Further interactive notebook analysis (optional, in progress 4/10/26)
 
 ```bash
 jupyter notebook

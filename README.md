@@ -61,19 +61,6 @@ This helps identify recurring operational and safety themes.
 
 ---
 
-## Project Structure
-
-```bash
-clinical-data-review-nlp-project/
-├── data/
-├── sql/
-├── scripts/
-├── notebooks/
-└── outputs/
-```
-
----
-
 ## How to Run
 
 ### 1. Create and activate a virtual environment

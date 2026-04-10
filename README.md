@@ -134,13 +134,13 @@ Open:
 notebooks/clinical_review_analysis.ipynb
 ```
 ---
-### 6. Load Queries to SQLite
+### 6. Load CSV's to SQLite
 
 ```bash
 python scripts/load_to_sqlite.py
 ```
 ---
-### 7. Open SQLite in Virtual Environment and run SQl files
+### 7. Open SQLite in Virtual Environment and run SQl files individually
 ---
 ## Example SQL Analyses
 

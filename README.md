@@ -28,8 +28,6 @@ The project includes:
 
 ## Dataset Contents
 
-This project generates synthetic versions of:
-
 - `subjects.csv`
 - `sites.csv`
 - `visits.csv`

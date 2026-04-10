@@ -122,7 +122,7 @@ python scripts/nlp_analysis.py
 
 ---
 
-### 5. Explore notebook
+### 5. Explore notebook (optional)
 
 ```bash
 jupyter notebook
@@ -133,9 +133,15 @@ Open:
 ```bash
 notebooks/clinical_review_analysis.ipynb
 ```
-
 ---
+### 6. Load Queries to SQLite
 
+```bash
+python scripts/load_to_sqlite.py
+```
+---
+### Open SQLite in Virtual Environment and run SQl files
+---
 ## Example SQL Analyses
 
 The SQL folder includes queries for:

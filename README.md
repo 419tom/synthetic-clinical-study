@@ -140,7 +140,7 @@ notebooks/clinical_review_analysis.ipynb
 python scripts/load_to_sqlite.py
 ```
 ---
-### Open SQLite in Virtual Environment and run SQl files
+### 7. Open SQLite in Virtual Environment and run SQl files
 ---
 ## Example SQL Analyses
 
